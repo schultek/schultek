@@ -1,4 +1,5 @@
-### Hi there 👋
+- 🌍 Website: [schultek.de](https://schultek.de) (🔧 Under construction)
+- 📯 Pub.dev [schultek](https://pub.dev/publishers/schultek.de/packages)
 
 <!--
 **schultek/schultek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
