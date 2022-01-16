@@ -1,7 +1,6 @@
 
 - 📯 Dart/Flutter Packages: [pub.dev/schultek](https://pub.dev/publishers/schultek.de/packages)
 - 📰 Articles: [medium.com/@schultek](https://medium.com/@schultek)
-- 🌍 Website: [schultek.de](https://schultek.de) (🔧 Under construction)
 
 <!--
 **schultek/schultek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
