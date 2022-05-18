@@ -16,6 +16,8 @@ I'm currently working on a new web framework for Dart - [jaspr](https://github.c
 It is designed to be SSR-first and has a Flutter-style component system, so that is has next to no 
 learning curve for developers coming from Flutter 💪.
 
+> [![logo](https://github.com/schultek/jaspr/raw/main/packages/jaspr_pad/web/jaspr-32.png) Demo & Playground](https://jasprpad.schultek.de)
+ 
 It is still in experimental state and I appreciate any help or feedback.
 
 ---
