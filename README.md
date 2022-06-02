@@ -18,7 +18,7 @@ learning curve for developers coming from Flutter 💪.
 
 > [![logo](https://github.com/schultek/jaspr/raw/main/packages/jaspr_pad/web/jaspr-32.png) Demo & Playground](https://jasprpad.schultek.de)
  
-It is still in experimental state and I appreciate any help or feedback.
+It is still in the beta stage and I appreciate any help or feedback.
 
 ---
 
