@@ -17,6 +17,8 @@
 
 | 📢Type     | 🎙️ Show                      | 📆Date     | 🔗 Link                                                                                      |
 |------------|-------------------------------|------------|----------------------------------------------------------------------------------------------|
+| Podcast    | **Flutter DACH Podcast**      | tba        |                                                                                              |
+| Podcast    | **Flying High with Flutter**  | tba        |                                                                                              |
 | Livestream | **Observable\<Flutter\>**     | 12.08.2024 | [Video](https://www.youtube.com/watch?v=80sZBijcRa8&t=1s&ab_channel=Flutter)                 |
 | Livestream | **Verry Codes Twitch Stream** | 02.08.2024 | [Video](https://www.youtube.com/watch?v=b0Y0veB_K6c&ab_channel=VerryCodes)                   |
 | Livestream | **Humbday Q&A**               | 30.08.2023 | [Video](https://www.youtube.com/live/ktfETmAwisQ?si=TfnqMQyjrfqdMPFJ)                        |
