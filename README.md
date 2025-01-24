@@ -4,7 +4,7 @@ I'm passionate about everything Dart & Flutter related 💙.
 
 Checkout my work here on Github or:
 
-- 📯 Dart/Flutter Packages: [pub.dev/schultek](https://pub.dev/publishers/schultek.de/packages)
+- 📯 Dart/Flutter Packages: [pub.dev/schultek](https://pub.dev/publishers/schultek.dev/packages)
 - 📰 Articles: [medium.com/@schultek](https://medium.com/@schultek)
 
 ---
