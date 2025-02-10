@@ -11,15 +11,15 @@ Checkout my work here on Github or:
 
 ### 🎯 Featured Project
 
-I'm currently working on a new web framework for Dart - [![logo](https://github.com/schultek/jaspr/raw/main/apps/jaspr_pad/web/jaspr-32.png) jaspr](https://github.com/schultek/jaspr). 
+![logo](https://github.com/schultek/jaspr/raw/main/assets/favicon.png)
 
-It is designed to be SSR-first and has a Flutter-style component system, so that is has next to no 
-learning curve for developers coming from Flutter 💪.
+I'm developing [Jaspr](https://jaspr.site) - The web framework for Dart developers.
 
-- [Demo & Playground](https://jasprpad.schultek.de)
-- [Docs](https://docs.page/schultek/jaspr)
- 
-It is still in the beta stage and I appreciate any help or feedback.
+Its a free and open source framework that lets you create fast and dynamic web experiences with ease in a familiar language and ecosystem.
+
+- [Website](https://jaspr.site)
+- [Playground](https://playground.jaspr.site)
+- [Docs](https://docs.jaspr.site)
 
 ---
 
