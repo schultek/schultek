@@ -18,7 +18,7 @@
 
 | 📢Type     | 🎙️ Show                      | 📆Date     | 🔗 Link                                                                                      |
 |------------|-------------------------------|------------|----------------------------------------------------------------------------------------------|
-| Podcast    | **Flying High with Flutter**  | tba        |                                                                                              |
+| Podcast    | **Flying High with Flutter**  | 24.10.2024 | [Episode](https://open.spotify.com/episode/5HO6UazwBd8FhJuHb8hO5e?si=79b8286769f44cd1)       |
 | Podcast    | **Flutter DACH Podcast**      | 27.09.2024 | [Episode](https://open.spotify.com/episode/1bFZFoEAPH06OtBC83uCzZ?si=iNdbK1X0SySPVqas6L60Pw) |
 | Livestream | **Observable\<Flutter\>**     | 12.08.2024 | [Video](https://www.youtube.com/watch?v=80sZBijcRa8&t=1s&ab_channel=Flutter)                 |
 | Livestream | **Verry Codes Twitch Stream** | 02.08.2024 | [Video](https://www.youtube.com/watch?v=b0Y0veB_K6c&ab_channel=VerryCodes)                   |
