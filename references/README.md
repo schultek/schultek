@@ -16,15 +16,16 @@
 
 ## Podcasts & Shows
 
-| 📢Type     | 🎙️ Show                      | 📆Date     | 🔗 Link                                                                                      |
-|------------|-------------------------------|------------|----------------------------------------------------------------------------------------------|
-| Podcast    | **Flying High with Flutter**  | 24.10.2024 | [Episode](https://open.spotify.com/episode/5HO6UazwBd8FhJuHb8hO5e?si=79b8286769f44cd1)       |
-| Podcast    | **Flutter DACH Podcast**      | 27.09.2024 | [Episode](https://open.spotify.com/episode/1bFZFoEAPH06OtBC83uCzZ?si=iNdbK1X0SySPVqas6L60Pw) |
-| Livestream | **Observable\<Flutter\>**     | 12.08.2024 | [Video](https://www.youtube.com/watch?v=80sZBijcRa8&t=1s&ab_channel=Flutter)                 |
-| Livestream | **Verry Codes Twitch Stream** | 02.08.2024 | [Video](https://www.youtube.com/watch?v=b0Y0veB_K6c&ab_channel=VerryCodes)                   |
-| Livestream | **Humbday Q&A**               | 30.08.2023 | [Video](https://www.youtube.com/live/ktfETmAwisQ?si=TfnqMQyjrfqdMPFJ)                        |
-| Podcast    | **Flying High with Flutter**  | 03.06.2023 | [Episode](https://open.spotify.com/episode/0l0jqP1aRGiT292j5DQ300?si=LBYaAapsSKmk-Zle_AKKDA) |
-| Podcast    | **Flying High with Flutter**  | 22.02.2023 | [Episode](https://open.spotify.com/episode/1j69pbMhIeOqCvWDjypVzN?si=7a2d41f21d7447c3)       |
+| 📢Type     | 🎙️ Show                       | 📆Date      | 🔗 Link                                                             |
+|------------|-------------------------------|------------|---------------------------------------------------------------------|
+| Podcast    | **programmier.bar**           | 28.03.2025 | [Episode](https://open.spotify.com/episode/03HMNxFMuPspzGBMgL00nE)  |
+| Podcast    | **Flying High with Flutter**  | 24.10.2024 | [Episode](https://open.spotify.com/episode/5HO6UazwBd8FhJuHb8hO5e)  |
+| Podcast    | **Flutter DACH Podcast**      | 27.09.2024 | [Episode](https://open.spotify.com/episode/1bFZFoEAPH06OtBC83uCzZ)  |
+| Livestream | **Observable\<Flutter\>**     | 12.08.2024 | [Video](https://www.youtube.com/watch?v=80sZBijcRa8)                |
+| Livestream | **Verry Codes Twitch Stream** | 02.08.2024 | [Video](https://www.youtube.com/watch?v=b0Y0veB_K6c)                |
+| Livestream | **Humbday Q&A**               | 30.08.2023 | [Video](https://www.youtube.com/live/ktfETmAwisQ)                   |
+| Podcast    | **Flying High with Flutter**  | 03.06.2023 | [Episode](https://open.spotify.com/episode/0l0jqP1aRGiT292j5DQ300)  |
+| Podcast    | **Flying High with Flutter**  | 22.02.2023 | [Episode](https://open.spotify.com/episode/1j69pbMhIeOqCvWDjypVzN)  |
 
 ## Packages
 
